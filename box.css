@@ -1,0 +1,13 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+
+a {
+    width: 600px;
+    height: 600px;
+    /* display: inline-block; */
+    background-color: coral;
+    color:white
+}
