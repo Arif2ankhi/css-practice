@@ -1,13 +1,8 @@
-/* * {
+ * {
     margin: 0;
     padding: 0;
-} */
+    box-sizing: border-box;
+    
+} 
 
 
-a {
-    width: 600px;
-    height: 600px;
-    /* display: inline-block; */
-    background-color: coral;
-    color:white
-}
