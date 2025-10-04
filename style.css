@@ -40,5 +40,37 @@
     color: red
 } */
 
-Combinetors 
+/* Combinetors  */
+
+/* descendant conbinators with space  */
+
+/* div.first-div h1 {
+    color:red
+}
+
+div.second-div h1 {
+    color:blue
+} */
+
+
+/* Child combinators with > (angle braket ) */
+
+/* div.first-div >h1 {
+    color:rgb(226, 16, 215)
+}
+
+div.second-div h1 {
+    color:blue
+} */
+
+/* next sibling selectore with + plus sign  immediate porer sibling  */
+h1+p {
+    color: salmon;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: small;
+    /* text-align: center; */
+}
 
