@@ -1,0 +1,44 @@
+/* h1{
+    color: red
+}; */
+
+/* Universal selectore */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ID selector */
+
+/* #title {
+    color: red;
+
+} */
+
+/* Tag selectors */
+
+/* h1#title {
+    color: blue; video 14 minutes 
+} */
+
+/* class selectors */
+
+/* li.odd {
+    color: blueviolet;
+} */
+/* li {
+        color: red;
+    }
+
+    * {
+        color: brown ;
+    } */
+/* Attribute selector */
+
+/* [href="https://google.co.uk"] {
+    color: red
+} */
+
+Combinetors 
+
