@@ -74,3 +74,15 @@ h1+p {
     /* text-align: center; */
 }
 
+    /* Sunsequent- sibling selector with ~ sign  */
+
+    /* body > .first-div > h1 + p {
+        color:turquoise
+    } */
+
+    /* h1 ~ p {
+        color: green;
+    } */
+
+
+
