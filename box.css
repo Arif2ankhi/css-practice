@@ -5,4 +5,12 @@
     
 } 
 
+@font-face {
+    font-family: myBanglaFont;
+    src: url(./banglafont/Li\ Abu\ J\ M\ Akkas\ Unicode.ttf)
+}
 
+
+p.bangla {
+    font-family: myBanglaFont;
+}
